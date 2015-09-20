@@ -1,0 +1,5 @@
+[IP]127.0.0.1[29-03-2015 06:25:04] POST localhost/appsglobe/api_login?name=ariel&email=&city=&phone=&zipcode=
+[IP]127.0.0.1[29-03-2015 06:25:41] POST localhost/appsglobe/api_login?tag=getPaket
+[IP]127.0.0.1[29-03-2015 06:32:05] GET localhost/appsglobe/getpaket?
+[IP]127.0.0.1[29-03-2015 06:34:43] GET localhost/appsglobe/getpaket?
+[IP]127.0.0.1[29-03-2015 08:14:59] GET 10.0.2.2/appsglobe/getpaket?

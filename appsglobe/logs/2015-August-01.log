@@ -1,0 +1,3 @@
+[IP]127.0.0.1[01-08-2015 06:05:45] GET 10.0.2.2/appsglobe/getpaket?
+[IP]127.0.0.1[01-08-2015 06:08:05] GET localhost/appsglobe/getpaket?
+[IP]127.0.0.1[01-08-2015 06:08:22] GET 10.0.2.2/appsglobe/getpaket?
